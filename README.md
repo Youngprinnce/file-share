@@ -6,6 +6,7 @@ This is a simple file share app using drag and drop friendly project I built usi
 - Uploading of a file up to 100mb
 - Generate a link to download file
 - Send file using email
+- Progress bar of uploaded file
 
 Deployed live on https://youngprinnce.github.io/file-share-frontend/ . Check out!
 
